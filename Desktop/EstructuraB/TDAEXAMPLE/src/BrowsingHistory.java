@@ -26,7 +26,7 @@ public class BrowsingHistory {
 
         //Consulta en qué página estás
         String actual = history.peek();
-        System.out.println("Página actual: " + actual);
+        System.out.println("Pagina actual: " + actual);
 
         //Agrega una nueva página
         history.push("https://www.malwarebytes.com/es/");
@@ -34,7 +34,7 @@ public class BrowsingHistory {
         printStack(history);
 
         //Muestrar todo el contenido
-        System.out.println("\nHistorical");
+        System.out.println("\nHistorial");
         Iterator<String> desc = history.descendingIterator();
         int i = 1;
         while (desc.hasNext()) {
