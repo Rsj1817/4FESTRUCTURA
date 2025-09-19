@@ -15,8 +15,8 @@ public class Reverse {
 
     
     public static void main(String[] args) {
-        String ejemplo = "hola";
-        invertir(ejemplo);
+        String ejercicio = "hola";
+        invertir(ejercicio);
         System.out.println();
     }
 }
