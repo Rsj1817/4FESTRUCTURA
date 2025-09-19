@@ -12,8 +12,5 @@ public class SumaRecursiva {
 
     public static void main(String[] args) {
         System.out.println("suma(5) = " + suma(5));
-        System.out.println("suma(0) = " + suma(0));
-        System.out.println("suma(1) = " + suma(1));
-        System.out.println("suma(10) = " + suma(10));
     }
 }
