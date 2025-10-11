@@ -1,3 +1,7 @@
+package Apuntes_etc;
+/*
+import javax.swing.*;
+
 public class App {
 
     public static <T> void printArray(T[] arr){
@@ -8,9 +12,9 @@ public class App {
     }
     public static void main(String[] args) throws Exception {
 
-        Box<String> box1 = new Box<>("Esto es una caja de strings");
+        Box box1 = new Box<>("Esto es una caja de strings");
         //List<String> lista = new ArrayList<>();
-        Box<Integer> box2 = new Box<>(2);
+        Box box2 = new Box<>(2);
         System.out.println(box2.getValue());
         
         
@@ -43,4 +47,4 @@ public class App {
         printArray(workers);
         
     }
-}
+}*/
