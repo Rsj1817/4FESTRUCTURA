@@ -1,3 +1,6 @@
+
+package Apuntes_etc;
+
 public class Worker {
 
     private int id;
