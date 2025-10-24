@@ -48,7 +48,7 @@ public class ArrayStack1<T> implements IStack1<T> {
         }
         return (T) data[top];
     }
-
+    //metodo clear
     @Override
     public void clear() {
         for (int i = 0; i < top; i++) {

@@ -1,3 +1,5 @@
+package Apuntes_etc;
+
 public class Box<T> {
     
     private T value;

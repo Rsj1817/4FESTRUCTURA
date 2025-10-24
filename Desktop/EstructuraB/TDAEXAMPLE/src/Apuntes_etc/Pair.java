@@ -1,3 +1,5 @@
+package Apuntes_etc;
+
 public class Pair<K, V >{
 
     private K key;
